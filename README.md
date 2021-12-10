@@ -56,3 +56,4 @@ Execute the program
 
 ~~~
 # OUPUT
+![output](./timetable.png)
